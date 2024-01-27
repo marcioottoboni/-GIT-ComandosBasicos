@@ -1,0 +1,16 @@
+1- Download do Git
+	https://git-scm.com/
+	
+2 - Inicialize o projeto no Git
+	git  init
+
+3-  Checa se tem arquivos na pasta para adicionar
+	git status
+	
+4-  Adiciona os arquivos ao fluxo de versionamento
+	git add ./nome_do_arquivo.txt 
+	ou  git add .
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/marcioottoboni/Comandos.git
+	git push -u origin main
