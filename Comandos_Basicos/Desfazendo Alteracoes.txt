@@ -1,0 +1,6 @@
+## Quando algum erro e cometido podemos utlizar a o comando git checkout para voltar uma determinada versao 
+
+
+
+
+
