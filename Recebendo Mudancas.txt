@@ -1,0 +1,5 @@
+## Com estes comandos vc podera sincronizar as mudancas que existem no repositorio remoto porem nao existem no local
+
+# git pull (Com isso vc traz tudo que tem no remoto porem nao tem no local)
+
+
