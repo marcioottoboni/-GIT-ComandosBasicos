@@ -2,4 +2,4 @@
 
  # A sintaxe basica e git mv +  nome_do_arquivo +  pasta de destino +  nome que o arquivo tera na pasta de destino 
   
-    EX:  git 
+    EX:  git mv 01.txt Clone_28-01-2024 02.txt
