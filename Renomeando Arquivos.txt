@@ -1,0 +1,5 @@
+## O comando git mv move um arquivo de uma pasta para outra ou modifica o nome de um arquivo que ja existe 
+
+ # A sintaxe basica e git mv +  nome_do_arquivo +  pasta de destino +  nome que o arquivo tera na pasta de destino 
+  
+    EX:  git 
