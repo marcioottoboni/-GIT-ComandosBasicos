@@ -1,0 +1,8 @@
+## Para fazer com que arquivos em uma pasta sejam  igninorados pelo git vc precisa 
+
+1 -  criar um arquivos nomeado ( .gitignore)
+2 - Adicionar os nomes dos arquivos que  deseja ignorar
+
+Ex?:  crie o arquivos  .gitignore   ( No vscde ela ja vai mostrar com o simbolo do git)
+
+01.txt
