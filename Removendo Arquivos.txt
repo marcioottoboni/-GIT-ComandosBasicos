@@ -1,0 +1,7 @@
+## Para remover arquivos utilizamos o comando 
+git rm +  nome do arquivo
+## Apos fazer isso  rode um git pull para  sincronizar o remoto e o local 
+
+
+
+
