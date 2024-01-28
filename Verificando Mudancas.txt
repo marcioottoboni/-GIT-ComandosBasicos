@@ -2,3 +2,13 @@ git satus
 
 # Traz os arquivos que precisam  ser  adicionados ao  sevidor pois nao estao sendo traqueados no momento 
 # e tambem os arquivos que sofreram mudancas.
+
+
+## Adicionar um arquivo em especifico 
+Para fazer utilize o comando git add  +  O nome eterminacao do arquivo ex 
+	git  add index.html
+
+
+## Adicionar muitos arquivos    
+    Para fazer utilize o comando  git add  .
+    # O ponto  siguinifica que vou Adicionar todos os arquivos
