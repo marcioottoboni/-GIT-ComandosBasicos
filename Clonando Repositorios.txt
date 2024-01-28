@@ -1,0 +1,11 @@
+## O  clone baixa  todo os arquivos do repositorio para a sua maquina diferente do  pull  em que eu ja sei qual e a origem o clone vai  copiar todo o projeo 
+ para a  minha maquina e inicializar um projeto que ja existe remotamente no meu local
+
+#  Para pegar o  link  na pagina do repositorio clique no botao code e entao em  clonar http
+git clone https://github.com/marcioottoboni/GIT.git . ( O ponto  faz com que ele clone o diretorio atual)
+
+
+
+
+
+
