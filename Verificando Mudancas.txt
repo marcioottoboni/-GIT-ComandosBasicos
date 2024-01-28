@@ -1,0 +1,4 @@
+git satus 
+
+# Traz os arquivos que precisam  ser  adicionados ao  sevidor pois nao estao sendo traqueados no momento 
+# e tambem os arquivos que sofreram mudancas.
