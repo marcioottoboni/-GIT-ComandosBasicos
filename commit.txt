@@ -1,0 +1,7 @@
+## Para fazer o commit de arquivos podemos fazer tanto de  um arquivo unico  quanto de arquivos separados 
+    # git commit arquivo01.txt -m "Primeiro envio do arquivo  arquivo01.txt"
+
+## Para fazer o commit de  todos os arquivos da pasta 
+    # git commit -a -m  ( -a  siguinifica todos os tipos de arquivo
+                          -m  siguinifica menssagem para aquele arquivo ou arquivos               
+                        )
