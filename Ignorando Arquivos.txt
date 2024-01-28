@@ -3,6 +3,10 @@
 1 -  criar um arquivos nomeado ( .gitignore)
 2 - Adicionar os nomes dos arquivos que  deseja ignorar
 
+** E uma boa pratica Adicionar este arquivo em todos os projetos
+
+
+
 Ex?:  crie o arquivos  .gitignore   ( No vscde ela ja vai mostrar com o simbolo do git)
 
 01.txt
