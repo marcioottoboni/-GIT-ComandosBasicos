@@ -5,3 +5,7 @@
 
  ## Para vermos as stashs criadas  utilizamos o comando git stash list 
  
+
+ ## Para que vc consiga aplicar a stash vc usa o comando git stash apply +   o numero da stash
+
+ 
