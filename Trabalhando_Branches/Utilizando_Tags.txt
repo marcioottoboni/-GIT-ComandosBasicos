@@ -7,3 +7,5 @@
 ## Para passear entre as tag utilizando o git checkout <nome>
 
 ## Para enviar uma tag especifica para o repositorio use git push origin <tag>
+
+## Paara enviar todas as tag use  git push origin --tags
