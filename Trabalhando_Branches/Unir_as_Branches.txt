@@ -1,0 +1,2 @@
+## Para unir uma branch a outra utilizamos o git merge qu faz com que os codigos das branches se unam formando um so 
+
