@@ -1,0 +1,7 @@
+##  O comando git stash faz com que todas as suas alteracoes  desde o ultimo commit sejam  desfeitas  e uma versao desse codigo tenha uma versao salva
+ 
+ # git stash 
+
+
+ ## Para vermos as stashs criadas  utilizamos o comando git stash list 
+ 
