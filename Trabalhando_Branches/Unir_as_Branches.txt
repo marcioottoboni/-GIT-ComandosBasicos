@@ -4,3 +4,5 @@
 2 -  Use o git merge + nome da branch doadora
 
 git merge teste
+
+** Uma dica e sempre dar um  merge da master com a minha branch para garantir que eu  tenho as ultimas coisas da master
