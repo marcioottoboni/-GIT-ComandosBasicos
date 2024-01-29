@@ -1,0 +1,8 @@
+## Para visualizar as branches que  vc tem antes de criar  use
+    git branch  (Com isso vc vera todas que existem)
+## Para criar uma branc vc utiliza o  comando 
+    git branch +  nome da branch 
+** Quando vc faz isso essa sua nova branch vai conter os arquivos da Master pois esta nova branch sera onde  as novas features serao desenvolvidas
+
+
+

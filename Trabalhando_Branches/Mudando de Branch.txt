@@ -1,0 +1,10 @@
+## Nao esqueca que para ver as branches que tem vc pode dar um git branch ( A que aparecer com um asterisco e a que vc esta)
+
+## Para  trocar de branch vc faz o checkout  de uma para outra
+
+git checkout -b  ( O menos b  faz uma copia  do branch atual)
+
+**  Nao esqueca que  o que estiver pendente de comit vai junto com a copia 
+
+
+
