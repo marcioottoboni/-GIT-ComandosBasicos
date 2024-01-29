@@ -1,2 +1,6 @@
 ## Para unir uma branch a outra utilizamos o git merge qu faz com que os codigos das branches se unam formando um so 
 
+1-  Va ate a branch que deseja  receber dados de outras branches  ( Muito provavel que a main)
+2 -  Use o git merge + nome da branch doadora
+
+git merge teste
