@@ -8,4 +8,8 @@
 
  ## Para que vc consiga aplicar a stash vc usa o comando git stash apply +   o numero da stash
 
+ ## Para mostrar as alteracoes da stash use o comando git stash show -p +  numero da stash
+
+
+ ## Para remover uma stash utilize git stash clear ou para remover uma so utilize o git stash drop + nome
  
