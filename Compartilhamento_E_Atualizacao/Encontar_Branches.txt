@@ -1,1 +1,5 @@
-## Para encontrar os branches utilizamos o git fetch 
+## Para encontrar os branches utilizamos o git fetch  ( Isso busca para o local todas as branches do remoto)
+
+## Para puchar as alteracoes dessas branches para a sua maquina utilizamos o pull
+
+
