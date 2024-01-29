@@ -1,0 +1,6 @@
+## Uma tag e um marco no desenvolvimento, para criar utilizamos o comando git tag -a <nome> -m <menssagem>
+
+## Para mostrar uma tag utlizamos o comando git show <nome>
+
+
+## Para passear entre as tag utilizando o git checkout <nome>
