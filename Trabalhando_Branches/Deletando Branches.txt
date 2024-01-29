@@ -1,0 +1,3 @@
+## Caso voce nao precise mais de uma determinada branch (Ambiente de desenvolvimento)
+git branch -d teste   (Delete o Ambiente de teste)
+
