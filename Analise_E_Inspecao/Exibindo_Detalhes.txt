@@ -2,3 +2,5 @@
  ** Quando nao especificamos o bransh o git mosta as diferencas entre o local e o remoto
  
  Ex: git diff master  ( Mostra as diferencas entre o seu projeto e a master)
+
+ Tambem podemos utili
