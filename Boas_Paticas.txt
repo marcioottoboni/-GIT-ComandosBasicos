@@ -1,0 +1,11 @@
+## Voce pode criar  um branch para cada tarefa e  um branch privado para aquela tarefa
+
+# Para criar o branch derivado para a sua tarefa git checkout -b funcao_a
+
+# Para criar o branch privado  que deriva da sua tarefa git checkout -b private_funcao_a
+
+** Entao vc vai trabalhando so  no branch privado
+
+# Agora para trazer  do privado o que de fato  sera commitado
+
+
