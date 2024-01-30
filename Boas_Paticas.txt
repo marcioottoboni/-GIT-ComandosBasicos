@@ -7,5 +7,12 @@
 ** Entao vc vai trabalhando so  no branch privado
 
 # Agora para trazer  do privado o que de fato  sera commitado
+    git rebase funcao_a private_funcao_a -i
+
+    **  Aperte o i para editar
+ Os commit sao mostraodos em linha para ignorar troque e palavra pick por squash e para alterar a menssagem  troque o pick para palavra reword
+
+ ** aperte esc  e  digite  :x!  salva o arquivo 
+
 
 
