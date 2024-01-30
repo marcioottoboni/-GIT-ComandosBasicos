@@ -1,0 +1,13 @@
+## Limpando arquivos Untracked
+    git clean -f (Com isso ele deleta todos os arquivos presentes no .gitignore,  o  -f  forca)
+
+## Utilizando o garbage colector
+    git gc
+
+## Para checar a integridade do arquivo 
+    git fsck
+
+##  Para mostrar o log completo do repositorio
+    git reflog 
+
+
