@@ -10,4 +10,7 @@
 ##  Para mostrar o log completo do repositorio
     git reflog 
 
+## Para fazer backup em zip 
+    git archive --format zip --output bkp_20240130.zip
 
+    
